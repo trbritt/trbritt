@@ -1,4 +1,4 @@
-# Hi there 👋
+# 👋 Hi there 
 
 # 💫 About Me:
 🔭: I am currently a PhD candidate at the Siwick Lab, McGill University, working on phonon dynamics in 2D materials.<br>👯: We collaborate with condensed matter theorists to validate novel density functional theory (DFT) on exotic single-crystal systems.<br>💬: Ask me about electron diffraction, density functional theory, or data science / visualization!<br>📫: [Visit me on my website](https://tbritt.xyz) to contact me! <br> 😄: Pronounds - he/him
