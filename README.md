@@ -1,20 +1,23 @@
-# 👋 Hi there 
+# Welcome
 
-# 💫 About Me:
-🔭: I am currently a PhD who has just finished at the Siwick Lab, McGill University, working on phonon dynamics in 2D materials.<br>👯: We collaborated with condensed matter theorists to validate novel density functional theory (DFT) on exotic single-crystal systems.<br>💬: Ask me about research best practices and tools, electron diffraction, density functional theory, or data science / visualization!<br>📫: [Visit me on my website](https://tbritt.xyz) to contact me! <br> 😄: Pronouns - he/him
+As a doctor of physics, my research focused on high performance computation, and the optimization of advanced quantum mechanical simulations, affording me with in-depth technical knowledge of a wide range of physical, algorithmic, and mathematical principles and innovations.
 
+Over my career, I have developed research-grade proficiency in `Rust`, `C++`, `Fortran`, and `Python`, and I have used these tools for a range of applications. My research at times involves the collection of extensive (~TB) datasets, and the efficient use of supercomputing resources, such as `MPI`, `OpenMP`, `Tokio/Rayon`, and `CUDA`, to extract and analyse the relevant information from the resulting data.
+
+My abilities to utilise cutting-edge technology, to analyse and successfully execute solutions to complex problems, and my strong willingness to collaborate with my peers poises me as successful researcher.
+
+I currently focus my research on cryptography, atomic and statistical arbitrage, convex optimization, and network / graph theory.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tristan-britt-282313112/) 
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Javascript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white) ![go](https://img.shields.io/badge/Go-%2300599C.svg?style=for-the-badge&logo=go&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![p5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-<!-- # 📊 GitHub Stats:-->
+## 💻 Tech Stack:
+![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white) ![Fortran](https://img.shields.io/badge/Fortran-734F96?logo=fortran&logoColor=fff) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) ![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=fff) ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)
 <!-- ![](https://github-readme-stats.vercel.app/api?username=trbritt&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/> -->
 <!--![](https://github-readme-streak-stats.herokuapp.com/?user=trbritt&theme=dark&hide_border=true)-->
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=trbritt&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)-->
 
-# ✍️ Quote of the Day
+## ✍️ Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
